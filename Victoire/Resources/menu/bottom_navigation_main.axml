@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu 
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+    android:id="@+id/action_food"
+    android:enabled="true"
+    android:icon="@drawable/ic_add"
+    android:title="Food"
+    app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_drinks"
+    android:enabled="true"
+    android:icon="@drawable/ic_edit"
+    android:title="Drinks"
+    app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_events"
+    android:enabled="true"
+    android:icon="@drawable/ic_remove"
+    android:title="Events"
+    app:showAsAction="ifRoom" />
+
+  <item
+   android:id="@+id/action_reserve"
+   android:enabled="true"
+   android:icon="@drawable/ic_edit"
+   android:title="Reserve Table"
+   app:showAsAction="ifRoom" />
+
+  <item
+    android:id="@+id/action_about"
+    android:enabled="true"
+    android:icon="@drawable/ic_remove"
+    android:title="About"
+    app:showAsAction="ifRoom" />
+  
+</menu>

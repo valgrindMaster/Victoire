@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="header1">#d23535</color>
+  <color name="header2">#d23535</color>
+  <color name="background">#ededed</color>
+  <color name="background_dark">#3a3a3a</color>
+  <color name="splash_background">#d13434</color>
+  <color name="card_background">#3f3f3f</color>
+  <color name="colorPrimary">#d5a507</color>
+  <color name="colorPrimaryDark">#af8807</color>
+  <color name="colorAccent">#f2bc09</color>
+  <color name="black">#000000</color>
+  <color name="gray">#d3d3d3</color>
+</resources>
